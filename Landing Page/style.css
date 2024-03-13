@@ -1,0 +1,60 @@
+body {
+    background-image: url("czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm01MTktY29mZmVlLWNhMDEtZC1sMWsxa2VnYy5qcGc.png");
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(80, 31, 59);
+    padding: 37px;
+    text-align: left;
+}
+
+nav {
+    position: absolute;
+    top: 25px;
+    right: 30px;
+}
+
+nav a {
+    color: rgb(53, 49, 134);
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+#contact-form{
+    border-radius: 15px 50px 30px 5px;
+    background: rgb(222, 216, 226);
+    padding: 20px; 
+    width: 200px;
+    height: 15px; 
+}
+
+#contact-form input{
+    border-radius: 15px 50px 30px 5px;
+    background: rgb(235, 237, 234);
+    padding: 20px; 
+    width: 200px;
+    height: 15px; 
+}
+
+
+#contact-form button{
+    border-radius: 15px 50px 30px 5px;
+    background: rgb(212, 208, 214);
+    padding: 20px; 
+    width: 200px;
+    height: 15px; 
+}
+
+/* #i {
+    border-radius: 15px 50px 30px 5px;
+    background: #609;
+    padding: 20px; 
+    width: 200px;
+    height: 15px; 
+}
+width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+} */
